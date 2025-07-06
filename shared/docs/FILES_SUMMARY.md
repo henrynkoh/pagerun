@@ -53,7 +53,7 @@ const nextConfig = {
 
 ```bash
 # ✅ FIXED: Single-line format for proper parsing
-OPENAI_API_KEY=REMOVEDproj-XXpTGS76FJOqC9aqFeYoXPb2-LtzJYNWwN5yAFXwcSTG4pelnHwrdIJQYAVZuDPSYSURUo4S9gT3BlbkFJ1u-87A4PRs80L1_EI6IYIjIy0cLztuxTWb6SyGytQ9aH6d6UhBzvmUXlZtfa6csBFbaRD6kNsA
+OPENAI_API_KEY=[REDACTED]
 GEMINI_API_KEY=AIzaSyAySZDp0RXApptogLB-tXZPu8uI2zyQ13M
 ENABLE_REAL_AI=true
 ```
